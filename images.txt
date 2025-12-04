@@ -1,1 +1,2 @@
 rabbitmq
+postgres:16.1
