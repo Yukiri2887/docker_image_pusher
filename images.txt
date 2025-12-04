@@ -1,2 +1,3 @@
 rabbitmq
 postgres:16.1
+mongo
