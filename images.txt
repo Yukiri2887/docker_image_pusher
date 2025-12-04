@@ -1,3 +1,2 @@
 rabbitmq
 postgresql_default
-postgresql
