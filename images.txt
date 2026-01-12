@@ -1,3 +1,4 @@
 rabbitmq
 postgres:16.1
 mongo
+mcr.microsoft.com/dotnet/aspnet:8.0
